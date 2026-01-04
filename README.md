@@ -29,6 +29,6 @@
 - 💼 **Business IG:** [@codeyash.dev](https://www.instagram.com/codeyash.dev/)
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyash-dev&theme=radical" width="100%" />
+<p align= "center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyash-dev&theme=radical" width="100%" /> 
 </p>
