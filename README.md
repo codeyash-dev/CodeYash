@@ -2,7 +2,7 @@
 <p align="center"><strong>Computer Science Student | Software Engineer | Web Developer</strong></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeyash-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="about.jpg" alt="Profile Views" />
 </p>
 
 <p align="center">
