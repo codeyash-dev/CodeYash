@@ -35,13 +35,6 @@
 - 💼 **Business IG:** [@codeyash.dev](https://www.instagram.com/codeyash.dev/)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codeyash-dev&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyash-dev&layout=compact&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyash-dev&theme=radical" width="100%" />
 </p>
